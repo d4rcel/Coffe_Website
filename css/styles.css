@@ -182,7 +182,6 @@ section{
     align-items: center;
     flex-wrap: wrap;
     gap: 4rem;
-    background-color: rgb(89, 193, 169);
 }
 
 .about .image{
